@@ -1,7 +1,8 @@
 # Object-Oriented Programming in C++
 
 This repository contains code examples and explanations related to Object-Oriented Programming (OOP) concepts in C++.
-<br>All the major topics are covered in simpliest manner possible
+<br>All the major topics are covered in simpliest manner possible aim is to provide a resource that is both educational and practical,
+<br>offering clear illustrations and examples for a better understanding and application of OOP principles.
 <br>The goal is to provide clear and concise examples to help learners understand and implement OOP principles using C++.
 
 ## Topics Covered
